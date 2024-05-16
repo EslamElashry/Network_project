@@ -1,0 +1,5 @@
+---
+router: 1.1.1.10
+area: 1
+networkk: 1.1.1.0
+wmask: 0.0.0.255
