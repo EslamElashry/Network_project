@@ -44,6 +44,6 @@ elif hello == "static" :
     show = vxr.send_command_timing("do show run")
     print(show)
 else:
-    print("please write only bpg or ospf or staic only!!")
+    print("please write only bpg or ospf or staic only!!!")
 
 
