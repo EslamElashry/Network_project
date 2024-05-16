@@ -1,6 +1,6 @@
 import yaml
 from netmiko import ConnectHandler
-import time
+
 print("Hello Guys, Welcome to my Script,You will see some configuration on specific router\n")
 hello= input("Do you want BGP or Ospf or Static: ")
 
